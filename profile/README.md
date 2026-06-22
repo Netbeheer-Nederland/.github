@@ -6,6 +6,10 @@ Netbeheer Nederland is de vereniging van alle elektriciteit- en gasnetbeheerders
 
 Op deze site vind je broncode van modellen, documentatie en software van Netbeheer Nederland.
 
+## Modellen
+
+Indien je op zoek bent naar NBility, het begrippenkader of modellen van registers of dataproducten, ga dan naar [Modellen van Nederland Nederland](https://modellen.netbeheernederland.nl).
+
 ## Contact
 
 Het beheer van deze GitHub-organisatie is momenteel in handen van [Team Semantiek](mailto:team.semantiek@netbeheernederland.nl).
