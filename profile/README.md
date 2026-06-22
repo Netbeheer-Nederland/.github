@@ -8,8 +8,8 @@ Op deze site vind je broncode van modellen, documentatie en software van Netbehe
 
 ## Contact
 
-Het beheer van deze GitHub-organisatie is momenteel in handen van (mailto:team.semantiek@netbeheernederland.nl)[Team Semantiek].
+Het beheer van deze GitHub-organisatie is momenteel in handen van [Team Semantiek](mailto:team.semantiek@netbeheernederland.nl).
 
 ## Hoe bij te dragen
 
-Voor nu kun je contact opnemen met (mailto:team.semantiek@netbeheernederland.nl)[Team Semantiek] voor al je vragen. In de toekomst beogen we hier meer te beschrijven.
+Voor nu kun je contact opnemen met [Team Semantiek](mailto:team.semantiek@netbeheernederland.nl) voor al je vragen. In de toekomst beogen we hier meer te beschrijven.
